@@ -1,0 +1,15 @@
+{
+  "name": "git-commands",
+  "version": "1.0.0",
+  "description": "Git/GitHub学習用リポジトリです。 こちらのリポジトリは予告なしに削除する可能性があります。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
