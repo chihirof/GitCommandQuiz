@@ -1,0 +1,38 @@
+[
+  {
+    "no": "1",
+    "question": "変更内容をインデックスに追加するコマンドは？",
+    "answer": "add",
+    "link": "https://git-scm.com/docs/git-add"
+  },
+  {
+    "no": "2",
+    "question": "ブランチの一覧表示、作成、削除などを行えるコマンドは？",
+    "answer": "branch",
+    "link": "https://git-scm.com/docs/git-branch"
+  },
+  {
+    "no": "3",
+    "question": "リポジトリを複製するコマンドは？",
+    "answer": "clone",
+    "link": "https://git-scm.com/docs/git-clone"
+  },
+  {
+    "no": "4",
+    "question": "リポジトリに変更を保存するコマンドは？",
+    "answer": "commit",
+    "link": "https://git-scm.com/docs/git-commit"
+  },
+  {
+    "no": "5",
+    "question": "コミット同士や、コミットと作業ツリーなどの間の変更を表示するコマンドは？",
+    "answer": "diff",
+    "link": "https://git-scm.com/docs/git-diff"
+  },
+  {
+    "no": "6",
+    "question": "リポジトリからデータをダウンロードするリポジトリは？",
+    "answer": "fetch",
+    "link": "https://git-scm.com/docs/git-fetch"
+  }
+]
