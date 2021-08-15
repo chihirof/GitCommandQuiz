@@ -1,7 +1,7 @@
 [
   {
     "no": "1",
-    "question": "変更内容をインデックスに追加するコマンドは？",
+    "question": "ファイルをインデックスに追加するコマンドは？",
     "answer": "add",
     "link": "https://git-scm.com/docs/git-add"
   },
@@ -13,25 +13,25 @@
   },
   {
     "no": "3",
-    "question": "リポジトリを複製するコマンドは？",
+    "question": "リモートリポジトリをローカルに複製するときに使用するコマンドは？",
     "answer": "clone",
     "link": "https://git-scm.com/docs/git-clone"
   },
   {
     "no": "4",
-    "question": "リポジトリに変更を保存するコマンドは？",
+    "question": "リポジトリにaddすた変更を保存するコマンドは？",
     "answer": "commit",
     "link": "https://git-scm.com/docs/git-commit"
   },
   {
     "no": "5",
-    "question": "コミット同士や、コミットと作業ツリーなどの間の変更を表示するコマンドは？",
+    "question": "2つのコミット間や、コミットと作業ツリー間などの変更を表示するコマンドは？",
     "answer": "diff",
     "link": "https://git-scm.com/docs/git-diff"
   },
   {
     "no": "6",
-    "question": "リポジトリからデータをダウンロードするコマンドは？",
+    "question": "リモートリポジトリからローカルリポジトリにデータをダウンロードするときに使用するコマンドは？",
     "answer": "fetch",
     "link": "https://git-scm.com/docs/git-fetch"
   },
@@ -55,31 +55,31 @@
   },
   {
     "no": "10",
-    "question": "ファイルやフォルダを移動、またはリネームするコマンドは？",
+    "question": "ファイルやフォルダを移動、またはリネームするときに使用するコマンドは？",
     "answer": "mv",
     "link": "https://git-scm.com/docs/git-mv"
   },
   {
     "no": "11",
-    "question": "リポジトリからデータをダウンロードし、統合するコマンドは？",
+    "question": "リモートリポジトリからローカルリポジトリにデータをダウンロードし、ローカルブランチに統合まで行うときに使用するコマンドは？",
     "answer": "pull",
     "link": "https://git-scm.com/docs/git-pull"
   },
   {
     "no": "12",
-    "question": "リモートリポジトリを更新するコマンドは？",
+    "question": "リモートリポジトリに更新を反映するときに使用するコマンドは？",
     "answer": "push",
     "link": "https://git-scm.com/docs/git-push"
   },
   {
     "no": "13",
-    "question": "現在のHEADを指定された状態にリセットするコマンドは？",
+    "question": "現在のHEADを指定された状態にリセットするときに使用するコマンドは？",
     "answer": "reset",
     "link": "https://git-scm.com/docs/git-reset"
   },
   {
     "no": "14",
-    "question": "ワーキングツリーのファイルを復元するコマンドは？",
+    "question": "ワーキングツリーのファイルを復元するときに使用するコマンドは？",
     "answer": "restore",
     "link": "https://git-scm.com/docs/git-restore"
   },
@@ -97,7 +97,7 @@
   },
   {
     "no": "17",
-    "question": "指定されたコミットの状態を表示するコマンドは？",
+    "question": "指定されたコミットの状態を表示するときに使用するコマンドは？",
     "answer": "show",
     "link": "https://git-scm.com/docs/git-show"
   },
@@ -109,13 +109,13 @@
   },
   {
     "no": "19",
-    "question": "ワーキングツリー領域の状態を表示するコマンドは？",
+    "question": "現在の状態を表示するコマンドは？",
     "answer": "status",
     "link": "https://git-scm.com/docs/git-status"
   },
   {
     "no": "20",
-    "question": "ブランチを切り替えるコマンドは？",
+    "question": "ブランチを切り替えるときに使用するコマンドは？",
     "answer": "switch",
     "link": "https://git-scm.com/docs/git-switch"
   },
@@ -133,19 +133,19 @@
   },
   {
     "no": "23",
-    "question": "リモートリポジトリの管理を行うコマンドは？",
+    "question": "リモートリポジトリの設定などを行うコマンドは？",
     "answer": "remote",
     "link": "https://git-scm.com/docs/git-remote"
   },
   {
     "no": "24",
-    "question": "ファイルの各行を最後に変更した履歴を表示するコマンドは？",
+    "question": "ファイルの各行で最後に変更した履歴を表示するコマンドは？",
     "answer": "blame",
     "link": "https://git-scm.com/docs/git-blame"
   },
   {
     "no": "25",
-    "question": "Gitに関するヘルプの情報を表示するコマンドは？",
+    "question": "Gitに関するヘルプ情報を表示するコマンドは？",
     "answer": "help",
     "link": "https://git-scm.com/docs/git-help"
   }
